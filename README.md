@@ -1,4 +1,4 @@
-Lab 11 – Bypass Root Detection (Uncrackable Level 2)
+# Lab 11 – Bypass Root Detection 
 🎯 Objectif
 L'objectif de ce lab est de contourner les mécanismes de protection d'une application Android vulnérable, notamment :
 Détection du root
